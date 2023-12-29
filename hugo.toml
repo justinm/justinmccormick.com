@@ -1,0 +1,40 @@
+baseURL = 'https://justinmccormick.com/'
+languageCode = 'en-us'
+title = 'Justin McCormick - Resume'
+theme = 'hugo-resume'
+
+[params]
+address = "Indianapolis, Indiana, USA"
+email = "contact@justinmccormick.com"
+favicon = "/favicon.ico"
+firstName = "Justin"
+lastName = "McCormick"
+#phone = "1-555-555-1234"
+profileImage = "img/ProfilePic-REInvent.jpg"
+showQr = true
+showSocializations = true
+sections = ["skills","experience"]
+
+
+
+[params.google]
+[params.google.analytics]
+trackerID = "G-GFLNFBT5FW"
+
+[[params.social]]
+link = "https://www.linkedin.com/in/justinlmccormick/"
+name = "LinkedIn"
+
+[[params.social]]
+link = "https://github.com/justinm/"
+name = "GitHub"
+
+[[params.social]]
+link = "https://keybase.io/justinmccormick"
+name = "Keybase"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

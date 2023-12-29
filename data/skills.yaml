@@ -1,0 +1,63 @@
+- grouping: Architecture and Concepts
+  skills:
+    - name: DevOps
+      icon: server
+      iconset: fontawesome
+    - name: Engineering
+      icon: ruler-combined
+      iconset: fontawesome
+    - name: Infrastructure as Code
+      icon: gear
+      iconset: fontawesome
+    - name: Microservices
+      icon: server
+      iconset: fontawesome
+    - name: REST APIs
+      icon: server
+      iconset: fontawesome
+
+- grouping: Languages, Operating Systems & Developer Tools
+  skills:
+    - Typescript
+    - Java
+    - Python
+    - Go
+    - Github
+    - Jetbrains
+    - name: Visual Studio Code
+      icon: visualstudio
+
+- grouping: Infrastructure as Code
+  skills:
+    - name: AWS CDK
+      icon: amazonwebservices
+      version: original
+    - Pulumi
+    - Terraform
+    - name: CDKTF
+      icon: amazonwebservices
+      version: original
+
+- grouping: Developer Operations
+  skills:
+    - Kubernetes
+    - name: Helm
+      icon: kubernetes
+    - Docker
+    - Jenkins
+    - name: Github Actions
+      icon: github
+    - name: CodeBuild
+      icon: amazonwebservices
+      version: original-wordmark
+    - name: CodePipeline
+      icon: amazonwebservices
+      version: original-wordmark
+    - Ubuntu
+    - name: Amazon Linux
+      icon: linux
+    - Bash
+
+- grouping: Frontend Development
+  skills:
+    - React

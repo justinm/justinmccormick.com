@@ -1,0 +1,115 @@
+- role: Senior Staff DevOps Engineer
+  company: Anthology
+  range: Jan 2023 - Present
+  summary: >-
+    In my current role as a Senior Staff Engineer, I have been an integral part of the organization's journey from a 
+    DevOps to a platform organization, even amidst a corporate merger and the subsequent transition from Blackboard to 
+    Anthology. During this transformative period, I assumed technical leadership, providing guidance and mentorship to 
+    junior engineers, while helping to foster a collaborative and innovative team culture.
+  achievements:
+    - "Architectural Design and Oversight: I lead in designing complex systems for scalability, performance, and reliability to meet growing demands. I provide oversight and guidance to staff engineers, empowering them to contribute to robust system designs and fostering a collaborative environment for technical growth and high-quality solutions across projects."
+    - "Strategic Decision-making: I actively participate in strategic decision-making processes, providing technical insights and data-driven recommendations to executive leadership."
+    - "Cross-Functional Collaboration: I collaborate with diverse teams, including product management, Product Development, and UX/UI, to drive successful project delivery and ensure seamless integration of engineering efforts."
+    - "Security and Compliance: I prioritize security and compliance on AWS, adhering to industry best practices and AWS security guidelines. Additionally, I design our cloud infrastructure to meet rigorous security standards, proactively identifying potential architectural risks and devising effective risk management strategies to maintain system integrity and stability."
+    - "As a Senior Staff Engineer, I embrace the opportunity to drive technical excellence and contribute to the company's overall success. This experience has been a gratifying journey, enabling me to make a substantial impact and continuously grow both personally and professionally."
+  technologies:
+    - Linux
+    - AWS
+    - AWS CDK
+    - Docker
+    - Typescript
+    - Bash
+    - REST APIs
+
+- role: Staff Devops Engineer
+  company: Blackboard
+  range: Apr 2019 - Jan 2023 * 3 yrs 10 mos
+  summary: >-
+    After transitioning from a full-stack engineer role at Blackboard, I began exploring DevOps-style projects and 
+    eventually took on the position of Staff DevOps Engineer. In this role, I contributed to orchestrating 
+    infrastructure for multiple clients using Amazon Web Services across different regions.
+  achievements:
+    - "DevOps Adoption: Embraced DevOps practices and tools, seeking to optimize the software development and deployment lifecycle."
+    - "Kubernetes and Helm Expertise: Demonstrated expertise in Kubernetes and Helm, effectively managing containerized applications, improving scalability, and streamlining deployment processes."
+    - "Infrastructure Management: Assisted in orchestrating and managing infrastructure for numerous clients on the Amazon Web Services (AWS) platform, ensuring high availability and scalability."
+    - "Continuous Delivery: Played a role in implementing and refining Continuous Delivery pipelines, enabling more frequent and reliable software releases."
+    - "Automation Initiatives: Contributed to various automation initiatives, aiming to improve efficiency and reduce manual intervention in infrastructure management."
+    - "Security and Compliance Support: Provided support in maintaining a secure and compliant infrastructure, adhering to industry best practices. Actively contributed to achieving FedRamp moderate compliance, ensuring data protection and privacy for government clients."
+    - "Collaborative Troubleshooting: Collaborated with cross-functional teams, including developers and sysops, to troubleshoot and resolve technical issues."
+    - "Being a Staff DevOps Engineer provided valuable opportunities for personal and professional growth, and I contributed to projects with a global impact."
+  technologies:
+    - Linux
+    - AWS
+    - Docker
+    - Kubernetes
+    - Helm
+    - Typescript
+    - Python
+    - Bash
+    - Jenkins
+    - REST APIs
+    - Terraform
+
+- role: Senior Software Engineer
+  company: Blackboard
+  range: May 2011 - Apr 2019 * 8 yrs
+  summary: >-
+    After the merger of Edline with Blackboard, I had the opportunity to work as a Senior Software Engineer at Blackboard. 
+    During this time, I was involved in a wide range of projects covering various aspects of software development, 
+    including UI work and CICD implementations.
+  achievements:
+    - "Data Synchronization Solutions: Contributed to the development of products focused on Extract-Transform-Load (ETL) processing for data synchronization between third-party providers, aiming to improve system and data interoperability."
+    - "API Development: Collaborated on the design and implementation of APIs using NodeJS and Java, with the goal of improving system scalability and facilitating integration with external services."
+    - "Java B2s for Blackboard Learn: Worked on Java Back-End components (B2s) for Blackboard Learn, aiming to support the platform's functionality and user experience."
+    - "Microservices Architecture: Led the design and development of Microservices using Kubernetes, streamlining application scalability, maintainability, and deployment."
+    - "Infrastructure Management: Assisted in managing AWS infrastructure using Terraform and other Infrastructure-as-Code (IAC) tools, seeking to optimize resource allocation and system performance."
+    - "CICD Automation: Contributed to Continuous Integration and deployment automation with Jenkins Kubernetes Pipelines, aiming to streamline development cycles and improve release processes."
+    - "Working on these dynamic projects at Blackboard allowed me to refine my technical expertise, collaborate effectively with cross-functional teams, and deliver solutions that positively impacted the organization's success."
+  technologies:
+    - Linux
+    - AWS
+    - Docker
+    - Kubernetes
+    - Helm
+    - Typescript
+    - Python
+    - Bash
+    - Jenkins
+    - REST APIs
+    - Terraform
+
+- role: Senior Software Engineer
+  company: Edline
+  range: May 2011 - Oct 2011 * 6 mos
+  summary: >-
+    After Edline purchased SchoolCenter, I actively participated in the integration of SchoolCenter features into 
+    the Edline LMS, aiming to achieve feature parity during the transition.
+  achievements:
+    - Collaborated on the integration of SchoolCenter features into the Edline platform.
+    - Engaged in efforts to achieve feature parity to enhance the user experience.
+    - During my time at Edline, I worked diligently on the integration process to improve the platform and bring feature parity. My dedication and contributions played a large part in the ongoing efforts to enhance the user experience.
+  technologies:
+    - java
+    - linux
+    - jquery
+
+- role: Software Engineer
+  company: SchoolCenter
+  range: Sep 2006 - May 2011 * 4 yrs 9 mos
+  summary: >-
+    During my time at SchoolCenter, the first entry in my career, I had the opportunity to work closely with a small, 
+    but dedicated team, facing challenges that contributed to shaping my foundational principles and fostering long-lasting friendships.
+  achievements:
+    - Assisted in the modernization of the codebase by integrating PHP5 object-oriented programming into the existing PHP4 application, aiming for improved code maintainability and extensibility.
+    - Collaborated with a dedicated team at SchoolCenter, contributing to the adoption of tools like jQuery, BackboneJS, and Marionette to enhance the user interfaces of the education-themed content management system.
+    - Acted as a bridge between development and devops teams, ensuring smooth communication and cooperation for efficient project deployments.
+    - Leveraged technologies like Celery, Django, and RabbitMQ for improved performance and responsiveness by offloading CPU processing to dedicated hardware in a using a dedicated microservice.
+    - Developed problem-solving skills, effective teamwork, and a proactive approach to exploring emerging technologies to support organizational goals.
+  technologies:
+    - php
+    - linux
+    - message queues
+    - jquery
+    - python
+    - bash
+    - memcached
